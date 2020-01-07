@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrendMovies</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_movie">Movie</string>
+</resources>
