@@ -2,4 +2,5 @@
     <string name="app_name">TrendMovies</string>
     <string name="title_favorite">Favorite</string>
     <string name="title_movie">Movie</string>
+    <string name="img_thumbnail_watch">Thumbnail Image</string>
 </resources>
